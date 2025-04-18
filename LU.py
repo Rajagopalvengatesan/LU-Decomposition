@@ -11,4 +11,3 @@ import numpy as np
 A = np.array(eval(input()))
 b = np.array(eval(input()))
 #add the code to get the solution of the matrix
-
